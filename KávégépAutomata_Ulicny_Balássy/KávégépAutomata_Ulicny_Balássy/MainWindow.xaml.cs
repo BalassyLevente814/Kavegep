@@ -23,7 +23,8 @@ namespace KávégépAutomata_Ulicny_Balássy
 
         private void Pay_Click(object sender, RoutedEventArgs e)
         {
-            
+            osszeg.Text = "Ennyit kell fizetned: ";
         }
+        //valamia
     }
 }

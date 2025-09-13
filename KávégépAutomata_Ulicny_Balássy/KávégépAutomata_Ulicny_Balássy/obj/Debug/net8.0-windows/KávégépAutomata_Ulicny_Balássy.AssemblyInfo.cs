@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KávégépAutomata_Ulicny_Balássy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf65eec95bd38877faca8bc2958afb724f724768")]
 [assembly: System.Reflection.AssemblyProductAttribute("KávégépAutomata_Ulicny_Balássy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KávégépAutomata_Ulicny_Balássy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
